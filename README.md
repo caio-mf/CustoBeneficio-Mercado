@@ -11,4 +11,3 @@ Desenvolvi este código de forma autônoma para praticar:
 * Entrada e saída de dados pelo terminal.
 * Operações matemáticas e manipulação de variáveis.
 * Resolução de problemas reais com lógica de programação.
-* 
